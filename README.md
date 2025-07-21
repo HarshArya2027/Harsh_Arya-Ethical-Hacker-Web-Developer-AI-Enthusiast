@@ -10,14 +10,15 @@ Hey there! I'm Harsh Arya, a 21-year-old engineering student at Chandigarh Engin
 I love exploring new technologies, building projects, and contributing to open-source communities.
 
 🛠️ Skills & Technologies
-Cybersecurity
-1 Ethical Hacking | Penetration Testing | Network Security
+
+* Cybersecurity
+1) Ethical Hacking | Penetration Testing | Network Security
 
 Tools: Kali Linux, Metasploit, Wireshark, Burp Suite, Nmap
 
 Certifications: [List any relevant certs like CEH, OSCP (if any)]
 
-2 Full Stack Development
+2) Full Stack Development
 Frontend: React.js, Next.js, HTML/CSS, JavaScript, TailwindCSS
 
 Backend: Node.js, Express.js, Django, Flask
@@ -26,7 +27,7 @@ Database: MongoDB, PostgreSQL, Firebase
 
 DevOps: Docker, AWS, CI/CD
 
-3 AI/ML
+3) AI/ML
 Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch)
 
 NLP, Computer Vision, Generative AI (LLMs, GANs)
